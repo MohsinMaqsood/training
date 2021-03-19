@@ -72,7 +72,7 @@ django-simple-email-confirmation==0.22
 django-simple-email-verification==0.1.2
 django-stubs==0.11.1
 django-user-accounts==2.0.3
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djangorestframework-stubs==0.4.2
 docker==2.7.0
