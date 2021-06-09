@@ -42,7 +42,7 @@ decorator==4.4.0
 defer==1.0.6
 defusedxml==0.6.0
 dill==0.2.9
-Django==2.2.2
+Django==2.2.22
 django-after-response==0.2.2
 django-appconf==1.0.2
 django-authorize==0.1.3
